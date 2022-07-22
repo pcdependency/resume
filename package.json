@@ -1,0 +1,17 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm install && npm run build",
+    "build": "resume export dist/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonresume-theme-elegant": "^1.16.1",
+    "resume-cli": "^3.0.7"
+  }
+}

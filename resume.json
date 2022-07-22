@@ -1,0 +1,269 @@
+{
+  "basics": {
+    "name": "Tyler Steele",
+    "label": "MERN Full Stack Web Developer",
+    "image": "https://ts-2022-resume.netlify.app/static/media/pp.0ed186ede138aba0e609.jpg",
+    "email": "tyler.steele.main@gmail.com",
+    "phone": "(303) 881-2282",
+    "url": "https://ts-2022-resume.netlify.app/",
+    "summary": "Hello, I am Tyler, 23, and from Brighton, Colorado. I am experienced in full stack web development and digital-art. I graduated May 2022 with a bachelors in IT at Purdue Global and am now interested in a Web Developer position. Feel free to check out my projects listed below.",
+    "location": {
+      "address": "NA",
+      "postalCode": "CO 80601",
+      "city": "Brighton",
+      "countryCode": "US",
+      "region": "Colorado"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "tyler-d-steele",
+        "url": "https://www.linkedin.com/in/tyler-d-steele/"
+      },
+      {
+        "network": "GitHub",
+        "username": "pcdependency",
+        "url": "https://github.com/pcdependency"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Purdue Global",
+      "url": "https://www.purdueglobal.edu/",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2021-07-07",
+      "endDate": "2022-05-10",
+      "score": "3.96",
+      "courses": [
+        "IT190: Information Technology",
+        "IT117: Website Development",
+        "IT234: Database Concepts",
+        "IT213: Software Development",
+        "CS212M2: Harnessing Social Media",
+        "CS212M4: Thinking Ethically and Critically",
+        "CS212M5: Communicating in Teams",
+        "IT273: Networking Concepts",
+        "IT286: Network Security Concepts",
+        "IT301: Project Management I",
+        "IT232: Software Design and Development",
+        "IT302: Human Computer Interaction",
+        "IT391: Advanced Software Development Including Web and Mobility",
+        "IT331: Technology Infrastructure",
+        "IT481: Advanced Software Development",
+        "IT350: Advanced Database Concepts",
+        "IT460: Systems Analysis and Design",
+        "IT332: Principles of Information Systems Architecture",
+        "IT488: Software Product Development Using Agile",
+        "IT402: IT Consulting Skills",
+        "IT390: Intrusion Detection and Incident Response",
+        "IT411: Digital Forensics",
+        "IT244: Python Programming",
+        "IT400: Ethics in Cybersecurity",
+        "...general studies"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front-end Web Development",
+      "level": "Expert",
+      "keywords": ["HTML", "CSS", "JavaScript", "React.js", "JSX"]
+    },
+    {
+      "name": "Back-end Web Development",
+      "level": "Intermediate - Senior",
+      "keywords": ["Express", "Node.js", "JavaScript", "MongoDB", "NoSQL"]
+    },
+    {
+      "name": "Developer Skills",
+      "level": "Intermediate - Senior",
+      "keywords": [
+        "File, Video, Image, & Buffer Streaming",
+        "Encryption & Hashing",
+        "Data Validation",
+        "State Optimization",
+        "Database & Query Optimization",
+        "Cloud Deployment"
+      ]
+    },
+    {
+      "name": "languages",
+      "level": "Intermediate - Senior",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React JSX",
+        "SQL",
+        "MongoDB Aggregation"
+      ]
+    },
+    {
+      "name": "Libraries",
+      "level": "Intermediate - Senior",
+      "keywords": [
+        "JSON Web Token",
+        "Three.js",
+        "Bootstrap",
+        "Material-UI",
+        "FFMPEG File Transcoding & Compression",
+        "React-router-dom",
+        "Nodemailer"
+      ]
+    },
+    {
+      "name": "General Frameworks and API's",
+      "level": "Intermediate - Senior",
+      "keywords": [
+        "Redux",
+        "Redux Thunk",
+        "Heroku Deployment",
+        "React Context API",
+        "Grid-FS Multer",
+        "Express",
+        "Node",
+        "GIT",
+        "Google Services API"
+      ]
+    },
+    {
+      "name": "Software",
+      "level": "Intermediate - Senior",
+      "keywords": [
+        "Windows OS 7, 8 & 10",
+        "Visual Studio Code",
+        "All Adobe Suite Applications Including Photoshop",
+        "MongoDB Compass",
+        "All Microsoft 365 Applications Including Access & Excel",
+        "Cinema 4D, Octane, VRay"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Web-development",
+      "keywords": [
+        "Three.js",
+        "Video Streaming",
+        "UI/UX",
+        "Web-Experience",
+        "Process-automation",
+        "Open source technology"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "2022 Resume",
+      "description": "Unique Resume Website",
+      "highlights": [],
+      "keywords": ["HTML", "React.js", "CSS"],
+      "startDate": "2022-05-01",
+      "endDate": "2022-05-13",
+      "url": "https://ts-2022-resume.netlify.app/",
+      "roles": ["Developer"],
+      "entity": "Entity",
+      "type": "Web-app"
+    },
+    {
+      "name": "2022 Portfolio",
+      "description": "Unique Portfolio Website",
+      "highlights": [],
+      "keywords": ["HTML", "React.js", "CSS"],
+      "startDate": "2022-05-01",
+      "endDate": "2022-05-13",
+      "url": "https://forgottendesigns.netlify.app/",
+      "roles": ["Developer"],
+      "entity": "Entity",
+      "type": "Web-app"
+    },
+    {
+      "name": "3D Interactive Website",
+      "description": "Unique Interactive 3D Website",
+      "highlights": [],
+      "keywords": ["HTML", "React.js", "CSS", "Three.js"],
+      "startDate": "2021-04-01",
+      "endDate": "2021-05-13",
+      "url": "https://forgottencity.netlify.app/",
+      "roles": ["Developer"],
+      "entity": "Entity",
+      "type": "Web-app"
+    },
+    {
+      "name": "Video Streaming Social Media App",
+      "description": "Full Stack Video Streaming Social Media App",
+      "highlights": [],
+      "keywords": [
+        "HTML",
+        "React.js",
+        "CSS",
+        "MongoDB",
+        "express",
+        "node.js",
+        "nodemailer",
+        "ffmpeg"
+      ],
+      "startDate": "2021-10-12",
+      "endDate": "2022-10-12",
+      "url": "https://github.com/pcdependency/videoapp",
+      "roles": ["Developer"],
+      "entity": "Entity",
+      "type": "Web-app"
+    }
+  ],
+  "work": [
+    {
+      "name": "Vestas Nacelles",
+      "position": "Inventory Management",
+      "url": "https://us.vestas.com/en-us",
+      "startDate": "2020-06-02",
+      "endDate": "2021-07-07",
+      "summary": "Managed Vestas Nacelles Production System Inventory.",
+      "highlights": []
+    },
+    {
+      "name": "Coblaco Services",
+      "position": "Industrial Painting & Sandblasting",
+      "url": "https://www.coblaco.com/",
+      "startDate": "2019-05-15",
+      "endDate": "2020-06-02",
+      "summary": "Painted/Coated Industrial Machinery.",
+      "highlights": []
+    },
+    {
+      "name": "Lowes Flooring",
+      "position": "Flooring & Installation Sales",
+      "url": "https://www.lowes.com/",
+      "startDate": "2018-04-04",
+      "endDate": "2019-05-15",
+      "summary": "Sold Commercial/Residential Flooring and Scheduled Installations.",
+      "highlights": []
+    },
+    {
+      "name": "Lowes Delivery",
+      "position": "Flooring & Installation Sales",
+      "url": "https://www.lowes.com/",
+      "startDate": "2017-03-07",
+      "endDate": "2018-04-04",
+      "summary": "Delivered Commercial/Residential Appliances and Freight.",
+      "highlights": []
+    },
+    {
+      "name": "Walmart Electronics",
+      "position": "Electronic Sales",
+      "url": "https://www.walmart.com/",
+      "startDate": "2016-02-10",
+      "endDate": "2017-03-07",
+      "summary": "Sold Electronics, Managed Photo Printing, and setup phones.",
+      "highlights": []
+    }
+  ]
+}
