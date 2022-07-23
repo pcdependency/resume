@@ -170,7 +170,6 @@
       "endDate": "2022-05-13",
       "url": "https://ts-2022-resume.netlify.app/",
       "roles": ["Developer"],
-      "entity": "Entity",
       "type": "Web-app"
     },
     {
@@ -182,7 +181,6 @@
       "endDate": "2022-05-13",
       "url": "https://forgottendesigns.netlify.app/",
       "roles": ["Developer"],
-      "entity": "Entity",
       "type": "Web-app"
     },
     {
@@ -194,7 +192,6 @@
       "endDate": "2021-05-13",
       "url": "https://forgottencity.netlify.app/",
       "roles": ["Developer"],
-      "entity": "Entity",
       "type": "Web-app"
     },
     {
@@ -215,7 +212,6 @@
       "endDate": "2022-10-12",
       "url": "https://github.com/pcdependency/videoapp",
       "roles": ["Developer"],
-      "entity": "Entity",
       "type": "Web-app"
     }
   ],
