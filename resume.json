@@ -2,7 +2,7 @@
   "basics": {
     "name": "Tyler Steele",
     "label": "MERN Full Stack Web Developer",
-    "image": "https://ts-2022-resume.netlify.app/static/media/pp.0ed186ede138aba0e609.jpg",
+    "image": "",
     "email": "tyler.steele.main@gmail.com",
     "phone": "(303) 881-2282",
     "url": "https://ts-2022-resume.netlify.app/",
@@ -227,7 +227,7 @@
       "url": "https://www.coblaco.com/",
       "startDate": "2019-05-15",
       "endDate": "2020-06-02",
-      "summary": "Painted/Coated Industrial Machinery.",
+      "summary": "Painted & Coated Industrial Machinery.",
       "highlights": []
     },
     {
@@ -241,7 +241,7 @@
     },
     {
       "name": "Lowes Delivery",
-      "position": "Industrial and residential Delivery",
+      "position": "Industrial & Residential Delivery",
       "url": "https://www.lowes.com/",
       "startDate": "2017-03-07",
       "endDate": "2018-04-04",
