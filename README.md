@@ -1,3 +1,7 @@
-git push -u origin main
+npm run build
 
-enter: resume export --format pdf --theme YOURTHEMEHERE resume.pdf
+enter: npx resume export --format pdf --theme YOURTHEMEHERE resume.pdf
+
+Theme: jsonresume-theme-elegant
+
+git push -u origin main

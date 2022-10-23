@@ -210,6 +210,26 @@
       "endDate": "2022-10-12",
       "url": "https://github.com/pcdependency/videoapp",
       "type": "Web-app"
+    },
+    {
+      "name": "Popular 3D Interactive Website Software Shop",
+      "description": "Front-end website shop",
+      "highlights": [],
+      "keywords": ["HTML", "React.js", "CSS", "Three.js"],
+      "startDate": "2022-10-1",
+      "endDate": "2022-10-7",
+      "url": "https://www.eternal.codes/",
+      "type": "Web-app"
+    },
+    {
+      "name": "Popular Minimalistic Website Software Shop",
+      "description": "Front-end website shop",
+      "highlights": [],
+      "keywords": ["HTML", "React.js", "CSS", "Animations"],
+      "startDate": "2022-10-20",
+      "endDate": "2022-10-22",
+      "url": "https://adverse-cheats.netlify.app",
+      "type": "Web-app"
     }
   ],
   "work": [
