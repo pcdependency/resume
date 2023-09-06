@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.26af292c.css",
+    "main.js": "/resume/static/js/main.d1b217d2.js",
+    "static/media/tablePlant.png": "/resume/static/media/tablePlant.eb3b86dafc987b248b0a.png",
+    "static/media/woodbg.jpg": "/resume/static/media/woodbg.3dc507fda079faeb9101.jpg",
+    "static/media/fileBlack.jpg": "/resume/static/media/fileBlack.4cbfd700aef4f9e6883f.jpg",
+    "static/media/file.jpg": "/resume/static/media/file.9c1faf86cc0ce6204eb7.jpg",
+    "static/media/phone2.png": "/resume/static/media/phone2.1a558eccda86322a84da.png",
+    "static/media/redux.png": "/resume/static/media/redux.1b4bb5fceb01b19da59d.png",
+    "static/media/videoapp.png": "/resume/static/media/videoapp.0874fb46f4ac9aa9aeaf.png",
+    "static/media/node.png": "/resume/static/media/node.20525b0ffe9f1f5203a4.png",
+    "static/media/react.png": "/resume/static/media/react.283bf42c605cfc49cf49.png",
+    "static/media/purdue.png": "/resume/static/media/purdue.44316d04c4eacc866cfe.png",
+    "static/media/express.png": "/resume/static/media/express.cca64e0f360897258ecb.png",
+    "static/media/forgotten.png": "/resume/static/media/forgotten.9d0acea7acf70fe810b7.png",
+    "index.html": "/resume/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.26af292c.css",
+    "static/js/main.d1b217d2.js"
+  ]
+}
